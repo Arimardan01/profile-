@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://resume-a-s-parihar.netlify.app/](https://resume-a-s-parihar.netlify.app/)
 
-- ⚡ **if(!coffee) "SORRY CAN'T CODE;**
+- ⚡ **if(!coffee) cout<< "SORRY CAN'T CODE";**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
