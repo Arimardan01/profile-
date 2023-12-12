@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arimardan" target="blank"><img src="https://img.shields.io/twitter/follow/arimardan?logo=twitter&style=for-the-badge" alt="arimardan" /></a> </p>
 
-- 🌱 I’m currently learning **react, python**
+- 🌱 I’m currently learning **react**
 
 - 📫 How to reach me **arimardan@gmail.gom**
 
